@@ -18,4 +18,4 @@ Go to the project repository with: ```cd W-JSC-501-PAR-1-1-battleship-vincent.na
 }
 
 Alternatively, you can start your local server directly from your code editor with this extension per example : 
-![Live Server](./liveserver.png)
+### ![Live Server](./liveserver.png)
