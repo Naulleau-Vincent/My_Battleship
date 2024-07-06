@@ -28,8 +28,8 @@ This project was bootstrapped with:
        ```bash
     npx http-server
 3. Access the project at:
-   ```bash
    http://127.0.0.1:8080/
+   
 4. To stop the server, use ctrl+c.
 
 Alternatively, you can start your local server directly from your code editor using extensions like:
