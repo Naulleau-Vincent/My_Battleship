@@ -7,7 +7,7 @@
     Choose who begin.
     Random shoots.
     Victory conditions.
-## This project was bootstrapped with <span style="color : red;">[HTML]</span> & [CSS] & [Javascript].
+## This project was bootstrapped with <span style="color: red;">HTML</span> & CSS & Javascript.
 ### !! Sound on, but be careful with the volume !!
 ### Available Scripts
 
