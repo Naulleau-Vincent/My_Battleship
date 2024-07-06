@@ -3,28 +3,18 @@
     It aims to reproduce the famous 'Battleship' game in local between one user and the computer. 
 ## Implemented functions:
     Place and replace your ships in the big map.
-    
-## This project was bootstrapped with [Node.js] & [React App].
-    [Node.js] =>{
-        package: npm,
-        server: express.js,
-        Chat-server: socket.io
-    }
-    [React App] =>{
-        package: npm,
-        Chat-server: socket.io,
-        router: react-router-dom
-    }
-## Available Scripts
+    Position horizontally and vertically your ships.
+    Choose who begin.
+    Random shoots.
+    Victory conditions.
+## This project was bootstrapped with [HTML] & [CSS] & [Javascript].
+### !! Sound on, but be careful with the volume !!
+### Available Scripts
 
-Go to the project repository with: ```cd W-JSC-502-PAR-2-1-irc-vincent.naulleau/``` =>{
-### '0': ```npm install```,
-### '1': ```npm start```,
-### 'end': ```ctrl+c```
+Go to the project repository with: ```cd W-JSC-501-PAR-1-1-battleship-vincent.naulleau``` =>{
+#### '0': ```npx http-server```,
+#### '1': ```http://127.0.0.1:8080/```
+#### 'end': ```ctrl+c```
 }
 
-Go to the client repository with: ```cd client/``` =>{
-### '0': ```npm install```,
-### '1': ```npm start```,
-### 'end': ```ctrl+c```
-}
+Alternatively, you can start your local server directly from your code editor with this extension per example : [Live Server](./liveserver.png)
